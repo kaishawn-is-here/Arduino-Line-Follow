@@ -1,4 +1,3 @@
-# Arduino-Line-Follow
 # Arduino Line Following Robot
 
 ## Hardware Components
